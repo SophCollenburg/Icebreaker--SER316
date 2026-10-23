@@ -9,10 +9,10 @@ Make sure you refer to the [Kickoff Document](#) for additional details and guid
 ## 1: Basic Information (To be completed before you start your Sprint)
 
 ### Project Information:
-- **Topic Chosen**: Scrum Board, Topic 1
+- **Topic Chosen**: Topic 1: Scrum Board Management Tool
 - **Sprint Number**: 1
-- **Scrum Master**: Brendan
-- **Git Master**: Derek
+- **Scrum Master**: Brendan Burningham
+- **Git Master**: Derek Bundy
 
 ### Sprint Planning (For Sprint 1-3):
 Fill out your Sprint Planning here, based on the kickoff document and your team's discussions.
