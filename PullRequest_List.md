@@ -7,4 +7,4 @@
 | Brian Birkmeier    |      https://github.com/Sama147/ideenigel_ser316_german_story/pull/9                            |
 | Christian Gilmore  |                                  |
 | Derek Bundy        | https://github.com/sophianorris/PixelPinguineStory/pull/2 |
-| Sophia Collenburg  |                                  |
+| Sophia Collenburg  |      https://github.com/aabachm2/story-time/pull/4/                            |
