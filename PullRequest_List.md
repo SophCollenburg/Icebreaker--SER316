@@ -3,7 +3,7 @@
 | Team Member        |         Pull Request Link        |
 | :---               | :---                             |
 | Zane Daniels       |      https://github.com/sncampuz/ser316-TeamBuilding-Wolkenblastler/pull/7                            |
-| Brendan Burningham |                                  |
+| Brendan Burningham | https://github.com/djgoulet/raketenbiber-story/pull/3 | 
 | Brian Birkmeier    |      https://github.com/Sama147/ideenigel_ser316_german_story/pull/9                            |
 | Christian Gilmore  |      https://github.com/sophianorris/PixelPinguineStory/pull/3 |
 | Derek Bundy        | https://github.com/sophianorris/PixelPinguineStory/pull/2 |
