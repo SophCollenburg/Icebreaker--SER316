@@ -5,6 +5,6 @@
 | Zane Daniels       |      https://github.com/sncampuz/ser316-TeamBuilding-Wolkenblastler/pull/7                            |
 | Brendan Burningham |                                  |
 | Brian Birkmeier    |      https://github.com/Sama147/ideenigel_ser316_german_story/pull/9                            |
-| Christian Gilmore  |                                  |
+| Christian Gilmore  |      https://github.com/sophianorris/PixelPinguineStory/pull/3 |
 | Derek Bundy        |                                  |
 | Sophia Collenburg  |      https://github.com/aabachm2/story-time/pull/4/                            |
